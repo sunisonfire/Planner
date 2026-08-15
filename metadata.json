@@ -1,0 +1,6 @@
+{
+  "name": "UniPlanner",
+  "description": "Aplicación web moderna y elegante para la organización académica universitaria: tareas, temporizador Pomodoro, calendario, materias, metas y cálculo de notas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
